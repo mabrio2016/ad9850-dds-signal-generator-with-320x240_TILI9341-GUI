@@ -116,7 +116,7 @@ public:
     int16_t y;
 
     ScreenPoint() {
-    } //Default contructor
+    } //Default constructor
 
     ScreenPoint(int16_t xIn, int16_t yIn) {
         x = xIn;
